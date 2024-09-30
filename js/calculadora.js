@@ -13,9 +13,9 @@
         let res = num1 + num2;
         console.log("Suma: "+ res);
     }
-    function Resta(num1,num2){
-        let res = num1 - num2;
-        console.log("Resta: "+ res);
+    function Mult(num1,num2){
+        let res = num1 * num2;
+        console.log("Multiplicación: "+ res);
     }
     function Mult(num1,num2){
         let res = num1 * num2;
